@@ -43,7 +43,7 @@ If you find this code useful for your research, please cite our papers
 @inproceedings{sheng2023adaptguard,
   title={AdaptGuard: Defending Against Universal Attacks for Model Adaptation},
   author={Sheng, Lijun and Liang, Jian and He, Ran and Wang, Zilei and Tan, Tieniu},
-  booktitle={International Conference on Machine Learning (ICML)}, 
+  booktitle={International Conference on Computer Vision (ICCV)}, 
   year={2023}
 }
 
